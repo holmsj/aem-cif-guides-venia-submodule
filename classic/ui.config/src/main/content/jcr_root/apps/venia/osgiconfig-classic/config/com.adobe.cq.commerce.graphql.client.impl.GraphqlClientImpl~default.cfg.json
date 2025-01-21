@@ -1,7 +1,7 @@
 {
   "identifier": "default",
   "httpMethod": "GET",
-  "url": "https://hostname.com/graphql",
+  "url": "https://venia.magento.com/graphql ",
   "connectionTimeout": 5000,
   "socketTimeout": 5000,
   "maxHttpConnections": 20,
